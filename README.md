@@ -1,2 +1,5 @@
 # DLMIA_ASOCA
 Code for the ASOCA challenge used for the DLMIA course
+
+Model+Secret_Justin holds the code for the model trained on near full size volumes 512*512*168 and the code used to generate predictions on the secret test set
+Model2 holds the code for the model trained on smaller patches 
