@@ -5,3 +5,4 @@ Code for the ASOCA challenge used for the DLMIA course.
 - Model2 holds the code for the model trained on smaller patches 
 - Simple segmentation model is the trained model on smaller patches (model 2)
 - Requirements hold the packages and their versions used
+- Model1_justin holds the trained model 1
